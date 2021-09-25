@@ -129,3 +129,8 @@ nav{
     background: #1B2132;
     color: #ADC7FB;
 }
+@media(max-width:576px){
+    img{
+        width: 100%;
+    }
+}
